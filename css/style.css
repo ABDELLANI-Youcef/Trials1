@@ -23,6 +23,7 @@ header .container{
 #image {
     max-width: 100%;
     height: auto;
+    display: block;
 }
 
 #image_container {
